@@ -1,0 +1,5 @@
+/home/parshav/IdeaProjects/BillApplication/src/main/java/com/billing/qrcode/generator/QRCodeGenerator.java
+/home/parshav/IdeaProjects/BillApplication/src/main/java/com/billing/qrcode/main/BillMain.java
+/home/parshav/IdeaProjects/BillApplication/src/main/java/com/billing/qrcode/schema/Unit.java
+/home/parshav/IdeaProjects/BillApplication/src/main/java/com/billing/qrcode/schema/BillDetail.java
+/home/parshav/IdeaProjects/BillApplication/src/main/java/com/billing/qrcode/reader/QRCodeReader.java

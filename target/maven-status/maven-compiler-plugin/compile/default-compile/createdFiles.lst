@@ -1,0 +1,5 @@
+com/billing/qrcode/generator/QRCodeGenerator.class
+com/billing/qrcode/schema/Unit.class
+com/billing/qrcode/schema/BillDetail.class
+com/billing/qrcode/main/BillMain.class
+com/billing/qrcode/reader/QRCodeReader.class
